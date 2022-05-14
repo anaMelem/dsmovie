@@ -1,0 +1,5 @@
+package com.dev.superior.dsmovie.entities;
+
+public class Score {
+
+}
